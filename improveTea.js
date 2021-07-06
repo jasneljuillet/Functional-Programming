@@ -3,7 +3,6 @@ const prepareGreenTea = 'greenTea';
 const prepareBlackTea = 'blackTea';
 
 const getTea = (prepare, numberOfTea) => {
-
     const tea = [];
 
     for(let cups = 0; cups < numberOfTea; cups++) {
